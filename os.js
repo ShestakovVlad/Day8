@@ -1,2 +1,2 @@
 const os = require('os');
-console.log(os.freemem()); // Количество свободной памяти в байтах 
+console.log(os.arch()); // байт у системі
